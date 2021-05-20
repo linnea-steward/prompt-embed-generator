@@ -1,0 +1,19 @@
+{
+  "name": "prompt-embed-generator",
+  "version": "1.0.0",
+  "description": "A tool for generating generators.",
+  "main": "split-tables.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/linnea-steward/prompt-embed-generator.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/linnea-steward/prompt-embed-generator/issues"
+  },
+  "homepage": "https://github.com/linnea-steward/prompt-embed-generator#readme"
+}
